@@ -1,0 +1,866 @@
+# 这个 viminfo 文件是由 Vim 7.3 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~MSle0~/share
+
+# 最后替换的字符串
+$
+
+# 命令行 历史记录 (从新到旧)：
+:q
+:w
+:.cc
+:vim /UserMedal/jg **/*.*
+:vim /FeedForGotMedal/jg **/*.*
+:vim /SkillsUser/jg **/*.*
+:cw
+:vim /Skill\.create/jg **/*.*
+:vim /FeedAppDownloaded/jg **/*.*
+:vim /FeedCreativityComment/jg **/*.*
+:W
+:vim /FeedCreativityResult/jg **/*.*
+:vim /HrVerified/jg **/*.*
+:vim /FeedHrVerified/jg **/*.*
+:vim /FeedHrRank/jg **/*.*
+:vim /FeedHrPk/jg **/*.*
+:vim /Upload::UserLogo/jg **/*.*
+:vim /FeedForUploadLogo/jg **/*.*
+:Q
+:vim /FeedBook/jg **/*.*
+
+# 查找字符串 历史记录 (从新到旧)：
+?/share
+?/views
+?/lib
+?/27
+?/45
+?/add
+?/skills_user
+?/add_skills
+?/add_skill
+?/config
+?/feed_app
+?/lbi
+?/comments
+?/creativity
+?/feed2.rb
+?/inbox
+?/feed
+?/feed2
+?/feed_creati
+?/feed_create
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_app_downloaded.html.erb
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_creativity_comment.html.erb
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_creativity_result.html.erb
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_hr_verified.html.erb
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_hr_rank.html.erb
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_hr_pk.html.erb
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_for_upload_logo.slim
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_book.slim
+@/home/tianji/projects/myproject/tianjicom/app/models/datautil
+@/home/tianji/projects/myproject/tianjicom/lib/sync_data.rb
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_read_book.slim
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_for_profile_verification.slim
+@/home/tianji/projects/myproject/tianjicom/app/models/feed2/feed_clear.rb
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_skill.html.erb
+@/home/tianji/projects/myproject/tianjicom/app/helpers/
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_feed_skill.html.erb
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feeds/feed2/_feed_skill.html.erb
+@/home/tianji/projects/myproject/tianjicom/app/views/home/feed2/_feed_more.html.erb
+@/home/tianji/projects/myproject/tianjicom/app/views/ajax/home/get_more_person_feed2.js.erb
+@/home/tianji/projects/myproject/tianjicom/app/views/ajax/home/get_more_feed2.js.erb
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+""0	CHAR	0
+	(opts={})
+"1	LINE	0
+	    
+"2	CHAR	0
+	add_skill
+	    skill_suggested
+	    skill_suggest
+	    skill_agree
+	    skill_endorsed
+	    read_book
+	    upload_logo
+	    hr_pk
+	    hr_rank
+	    creativity_result
+	    creativity_comment
+	    app_download
+	    create_or_update_background
+	    for_got_medal
+	
+	    demo(opts)
+	    status(opts)
+	    for_update_intro(opts)
+	    share_with_group(opts)
+	    like_and_comment_with_article(opts)
+"3	LINE	0
+	
+"4	LINE	0
+	    opts = {user_id: @current_user_id, count: 100}
+"5	LINE	0
+	        
+"6	LINE	0
+	  #                                                                                #
+"7	CHAR	0
+	#
+	  #
+	  #
+	  #
+	  #
+	  #
+	  #
+	  #
+	  #
+	  #
+	
+"8	LINE	0
+	
+"9	LINE	0
+	  #
+	
+"-	CHAR	0
+	 
+
+# 文件标记:
+'0  113  0  ~/vim/dot.bashrc.sample
+'1  821  2  ~/.viminfo
+'2  69  0  ~/.vimrc
+'3  245  27  ~/projects/myproject/tianjicom/app/models/feed2/seed.rb
+'6  1  0  ~/projects/myproject/tianjicom/NERD_tree_1
+'7  4845  23  ~/projects/myproject/tianjicom/NERD_tree_1
+'9  1  0  ~/projects/myproject/tianjicom/NERD_tree_2
+
+# 跳转列表 (从新到旧):
+-'  113  0  ~/vim/dot.bashrc.sample
+-'  53  0  ~/vim/dot.bashrc.sample
+-'  1  0  ~/vim/dot.bashrc.sample
+-'  821  2  ~/.viminfo
+-'  211  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  69  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  140  27  ~/projects/myproject/tianjicom/app/models/feed2/seed.rb
+-'  146  85  ~/projects/myproject/tianjicom/app/models/feed2/seed.rb
+-'  150  6  ~/projects/myproject/tianjicom/app/models/feed2/seed.rb
+-'  1  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4845  23  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4976  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5191  20  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5175  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5190  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4978  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4977  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4972  20  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5200  17  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4565  8  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4900  21  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4907  23  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5194  19  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5198  15  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5174  13  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5136  21  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5125  21  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5069  12  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4895  12  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4873  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5449  5  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4929  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4928  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4912  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4908  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5188  17  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5241  13  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5228  14  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5225  8  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5206  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4991  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4990  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4964  31  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4963  31  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4874  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4604  0  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4909  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4709  18  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4599  17  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5456  2  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4821  23  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4419  23  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4550  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4765  20  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4749  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4764  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4552  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4551  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4546  20  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4774  17  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4139  8  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4474  21  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4481  23  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4768  19  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4772  15  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4748  13  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4710  21  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4699  21  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4643  12  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4469  12  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4447  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5023  5  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4503  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4502  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4486  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4482  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4762  17  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4815  13  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4802  14  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4799  8  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4780  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4564  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4538  31  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4537  31  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4448  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4178  0  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4483  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4283  18  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4173  17  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  5030  2  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4395  23  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4248  23  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4379  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4594  20  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4578  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4593  6  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4381  11  ~/projects/myproject/tianjicom/NERD_tree_1
+-'  4380  11  ~/projects/myproject/tianjicom/NERD_tree_1
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/vim/dot.bashrc.sample
+	"	113	0
+
+> ~/.viminfo
+	"	821	2
+
+> ~/.vimrc
+	"	69	0
+
+> ~/projects/myproject/tianjicom/NERD_tree_1
+	"	25	0
+	^	1310	17
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/projects/myproject/tianjicom/app/models/feed2/seed.rb
+	"	337	15
+	^	49	18
+	.	306	23
+	+	51	49
+	+	51	28
+	+	51	41
+	+	67	0
+	+	5	0
+	+	27	0
+	+	67	0
+	+	333	0
+	+	6	21
+	+	26	0
+	+	21	7
+	+	22	9
+	+	23	19
+	+	24	19
+	+	25	32
+	+	7	4
+	+	26	2
+	+	367	0
+	+	367	0
+	+	366	4
+	+	6	6
+	+	366	34
+	+	367	0
+	+	133	0
+	+	335	0
+	+	355	0
+	+	354	0
+	+	54	5
+	+	54	1
+	+	53	1
+	+	54	5
+	+	67	0
+	+	66	0
+	+	67	0
+	+	53	84
+	+	66	83
+	+	54	85
+	+	66	0
+	+	54	2
+	+	57	86
+	+	61	0
+	+	62	0
+	+	63	0
+	+	64	0
+	+	65	0
+	+	54	86
+	+	57	157
+	+	57	2
+	+	54	4
+	+	57	3
+	+	57	86
+	+	57	0
+	+	56	3
+	+	57	5
+	+	54	0
+	+	58	82
+	+	60	0
+	+	59	14
+	+	55	97
+	+	57	115
+	+	56	96
+	+	58	118
+	+	59	99
+	+	60	90
+	+	61	89
+	+	62	89
+	+	63	89
+	+	64	89
+	+	65	89
+	+	66	90
+	+	53	90
+	+	54	95
+	+	60	25
+	+	58	19
+	+	58	118
+	+	60	114
+	+	51	0
+	+	133	42
+	+	147	38
+	+	171	24
+	+	180	26
+	+	48	33
+	+	50	6
+	+	49	13
+	+	51	4
+	+	47	0
+	+	47	0
+	+	51	0
+	+	49	17
+	+	195	24
+	+	211	22
+	+	217	29
+	+	235	25
+	+	240	20
+	+	249	22
+	+	253	16
+	+	261	18
+	+	266	28
+	+	294	29
+	+	306	23
+
+> ~/projects/myproject/tianjicom/app/models/endorsed_skill.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/skills_user.rb
+	"	74	11
+
+> ~/projects/myproject/tianjicom/app/models/suggested_skill.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/db/migrate/20121219034859_init_skills_data.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/lib/tasks/add_skill.rake
+	"	1	0
+
+> ~/projects/myproject/tianjicom/lib/tasks/skills.rake
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/api/rest/email/hr.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/api/rest/profile/info.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/api/rest/profile/skill.rb
+	"	11	22
+
+> ~/projects/myproject/tianjicom/app/cells/dashboard_panel_cell.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/account/backgrounds_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/ajax/home_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/ajax/panel/skill_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/ajax/profile_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/ajax/setting_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/api/internal_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/api/skills_controller.rb
+	"	9	12
+
+> ~/projects/myproject/tianjicom/app/controllers/front/dashboard_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/hr/profiles_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/profile/suggested_skills_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/profile/user_skills_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/profile_controller.rb
+	"	366	41
+
+> ~/projects/myproject/tianjicom/app/controllers/pub_profile_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/rest/profile_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/helpers/home_helper.rb
+	"	44	0
+
+> ~/projects/myproject/tianjicom/app/mailers/skill_recommend_mailer.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/account.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/feed2/feed_clear.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/hr/pk_history.rb
+	"	19	43
+
+> ~/projects/myproject/tianjicom/app/models/hr/quick_panel_statistics_observer.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/hr/rule/background.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/medal.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/skills_user_mongo.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/suggested_skill_mongo.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/user_mongo.rb
+	"	18	0
+
+> ~/projects/myproject/tianjicom/app/views/profile/_profile_left.html.erb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/views/profile/_skill.html.erb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/views/profile/edit_properties.html.erb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/db/migrate/20121206021557_create_skills_users.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/db/migrate/20130326042422_add_suggested_skill_id_to_skills_users.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/db/migrate/20130506081254_add_category_to_skills_users.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/db/migrate/20131121070322_add_source_to_skills_users.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/lib/event_queue/senders/skills_user.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/log/development.log
+	"	1	0
+
+> ~/projects/myproject/tianjicom/log/mongodb.log
+	"	1	0
+
+> ~/projects/myproject/tianjicom/log/test.log
+	"	1	0
+
+> ~/projects/myproject/tianjicom/config/routes/profile.rb
+	"	48	15
+
+> ~/projects/myproject/tianjicom/config/routes/ajax.rb
+	"	46	14
+
+> ~/projects/myproject/tianjicom/app/controllers/event_apply_results_controller.rb
+	"	10	0
+
+> ~/projects/myproject/tianjicom/app/controllers/creativity/subjects_controller.rb
+	"	58	4
+
+> ~/projects/myproject/tianjicom/app/models/creativity/result.rb
+	"	46	0
+
+> ~/projects/myproject/tianjicom/app/views/home/feed2/_for_create_or_update_background.slim
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/profile/work_experiences_controller.rb
+	"	11	4
+	.	11	0
+	+	11	0
+
+> ~/projects/myproject/tianjicom/app/views/home/feed2/_for_got_medal.slim
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/feed2.rb
+	"	25	30
+	^	5	396
+	.	5	395
+	+	4	129
+	+	5	83
+	+	5	131
+	+	5	0
+	+	5	0
+	+	5	0
+	+	6	0
+	+	5	152
+	+	103	0
+	+	108	0
+	+	5	162
+	+	5	163
+	+	5	0
+	+	5	0
+	+	5	0
+	+	5	0
+	+	5	0
+	+	5	246
+	+	5	193
+	+	5	0
+	+	6	0
+	+	5	0
+	+	5	395
+
+> ~/projects/myproject/tianjicom/app/models/feed_for_got_medal.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/feed_for_got_medal_mongo.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/feed_mongo.rb
+	"	103	1
+
+> ~/projects/myproject/tianjicom/app/models/user_medal_observer.rb
+	"	13	4
+
+> ~/projects/myproject/tianjicom/log/test/event_queue.log
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/medals_controller.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/medal_user.rb
+	"	24	13
+
+> ~/projects/myproject/tianjicom/app/models/user_medal.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/spec/models/user_medal_observer_spec.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/views/home/feeds/_feed_hr_verified.html.erb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/feed_hr_verified_mongo.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/views/home/feed2/_hr_verified.html.erb
+	"	1	0
+	m	1	0
+
+> ~/projects/myproject/tianjicom/app/models/feed_hr_verified.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/mailers/hr_verified_mailer.rb
+	"	13	6
+
+> ~/projects/myproject/tianjicom/app/views/home/feeds/_feed_app_downloaded.html.erb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/views/home/feeds/_feed_default.html.erb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/views/home/feeds/_feed_creativity_result.html.erb
+	"	8	5
+
+> ~/projects/myproject/tianjicom/app/views/home/feed2/_creativity_result.html.erb
+	"	8	5
+	^	3	23
+	.	3	22
+	+	7	60
+	+	3	22
+
+> ~/projects/myproject/tianjicom/app/models/feed_creativity_result_mongo.rb
+	"	5	6
+	^	12	33
+	.	12	32
+	+	18	0
+	+	17	0
+	+	18	0
+	+	3	0
+	+	4	33
+	+	5	0
+	+	10	0
+	+	13	35
+	+	12	32
+
+> ~/projects/myproject/tianjicom/app/models/feed_creativity_result.rb
+	"	8	85
+
+> ~/projects/myproject/tianjicom/app/models/feed_endorsed_skill_mongo.rb
+	"	7	0
+
+> ~/projects/myproject/tianjicom/app/models/feed2/feed_mongo.rb
+	"	94	1
+
+> ~/projects/myproject/tianjicom/app/models/feed_creativity_comment_mongo.rb
+	"	12	31
+	^	12	32
+	.	12	32
+	+	15	0
+	+	4	34
+	+	15	0
+	+	14	0
+	+	15	0
+	+	5	5
+	+	14	0
+	+	10	1
+	+	11	16
+	+	13	0
+	+	12	32
+
+> ~/projects/myproject/tianjicom/app/models/feed_creativity_comment.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/controllers/creativity/comments_controller.rb
+	"	5	4
+
+> ~/projects/myproject/tianjicom/config/routes/creativity.rb
+	"	39	27
+
+> ~/projects/myproject/tianjicom/app/views/home/feed2/_creativity_comment.html.erb
+	"	9	5
+	^	3	23
+	.	3	22
+	+	8	60
+	+	3	22
+
+> ~/projects/myproject/tianjicom/app/controllers/rest/listeners_controller.rb
+	"	20	4
+
+> ~/projects/myproject/tianjicom/app/models/feed_app_downloaded.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/models/feed_app_downloaded_mongo.rb
+	"	19	26
+	^	19	27
+	.	19	26
+	+	22	0
+	+	10	35
+	+	21	0
+	+	11	6
+	+	17	16
+	+	20	0
+	+	21	0
+	+	18	46
+	+	19	26
+
+> ~/projects/myproject/tianjicom/app/views/home/feed2/_app_downloaded.html.erb
+	"	14	118
+	^	14	119
+	.	14	118
+	+	12	85
+	+	14	118
+
+> ~/projects/myproject/tianjicom/app/models/feed_hr_pk_mongo.rb
+	"	26	6
+	^	36	63
+	.	36	62
+	+	42	0
+	+	41	0
+	+	42	0
+	+	26	0
+	+	25	33
+	+	26	2
+	+	31	0
+	+	38	0
+	+	33	36
+	+	34	24
+	+	34	25
+	+	38	0
+	+	33	39
+	+	35	57
+	+	36	48
+	+	37	61
+	+	34	58
+	+	35	60
+	+	36	62
+
+> ~/projects/myproject/tianjicom/app/views/home/feeds/_feed_notice.html.erb
+	"	24	8
+
+> ~/projects/myproject/tianjicom/app/views/home/feeds/_feed_join_corp.html.erb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/views/home/feeds/_feed_job.html.erb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/views/home/feeds/_feed_hr_rank.html.erb
+	"	18	30
+	^	7	68
+	.	7	67
+	+	3	35
+	+	4	57
+	+	5	160
+	+	7	67
+
+> ~/projects/myproject/tianjicom/app/views/home/feeds/_feed_for_upload_logo.slim
+	"	6	4
+
+> ~/projects/myproject/tianjicom/app/models/feed_for_upload_logo_mongo.rb
+	"	12	4
+	^	10	20
+	.	12	0
+	+	13	0
+	+	12	0
+	+	4	33
+	+	13	0
+	+	5	0
+	+	10	19
+	+	12	0
+
+> ~/projects/myproject/tianjicom/app/models/feed_for_upload_logo.rb
+	"	1	0
+
+> ~/projects/myproject/tianjicom/app/views/home/feed2/_for_upload_logo.slim
+	"	1	0
